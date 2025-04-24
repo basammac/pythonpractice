@@ -8,7 +8,10 @@
 # with open("D:/Documents/stulist.txt", "r+", encoding="utf-8") as file:
 #     print(file.read())
 
- with open("D:/Documents/stulist.txt", "a", encoding="utf-8") as file:
-    file.write("heyjohnnn\n")
- with open("D:/Documents/stulist.txt", "r+", encoding="utf-8") as file:
-     print(file.read())
+ # with open("D:/Documents/stulist.txt", "a", encoding="utf-8") as file:
+ #    file.write("heyjohnnn\n")
+ # with open("D:/Documents/stulist.txt", "r+", encoding="utf-8") as file:
+ #     print(file.read())
+
+ x = 5
+     print(type(x))
